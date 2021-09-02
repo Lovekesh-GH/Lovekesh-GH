@@ -20,9 +20,9 @@
 <br>
 <a href="https://github.com/Lovekesh-GH">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lovekesh-GH&show_icons=true" alt="Lovekesh-GH" style="width:40%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovekesh-GH&layout=compact" alt="Lovekesh-GH" style="width:40%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovekesh-GH&layout=compact" alt="Lovekesh-GH" style="width:40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lovekesh-GH&show_icons=true" alt="Lovekesh-GH" style="width:50%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovekesh-GH&layout=compact" alt="Lovekesh-GH" style="width:50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovekesh-GH&layout=compact" alt="Lovekesh-GH" style="width:50%;"/>
 
   </p>  
 </a>
